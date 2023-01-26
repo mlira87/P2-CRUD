@@ -1,0 +1,6 @@
+/*reset universal de css*/
+* {
+    box-sizing: border-box; /*Para que todos los elementos queden alineados en su contenedor*/
+    margin: 0;
+    padding: 0;
+  }
